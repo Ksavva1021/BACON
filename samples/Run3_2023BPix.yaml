@@ -1,0 +1,37 @@
+- DYto2L_M-10to50_madgraphMLM
+- DYto2L_M-50_madgraphMLM
+- DYto2L_M-50_1J_madgraphMLM
+- DYto2L_M-50_2J_madgraphMLM
+- DYto2L_M-50_3J_madgraphMLM
+- DYto2L_M-50_4J_madgraphMLM
+- WtoLNu_madgraphMLM
+- WtoLNu_1J_madgraphMLM
+- WtoLNu_2J_madgraphMLM
+- WtoLNu_3J_madgraphMLM
+- WtoLNu_4J_madgraphMLM
+- TTto2L2Nu
+- TTtoLNu2Q
+- TTto4Q
+- WW
+- WZ
+- ZZ
+# - ST_t-channel_top_4f_InclusiveDecays
+# - ST_t-channel_antitop_4f_InclusiveDecays
+- ST_tW_top_2L2Nu
+- ST_tW_antitop_2L2Nu
+- ST_tW_top_4Q
+- ST_tW_antitop_4Q
+- ST_tW_top_LNu2Q
+- ST_tW_antitop_LNu2Q
+- EGamma0_Run2023D_v1
+- EGamma0_Run2023D_v2
+- EGamma1_Run2023D_v1
+- EGamma1_Run2023D_v2
+- Tau_Run2023D_v1
+- Tau_Run2023D_v2
+- Muon0_Run2023D_v1 
+- Muon0_Run2023D_v2 
+- Muon1_Run2023D_v1 
+- Muon1_Run2023D_v2 
+- MuonEG_Run2023D_v1
+- MuonEG_Run2023D_v2

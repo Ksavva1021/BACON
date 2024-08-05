@@ -8,7 +8,7 @@ def create_jsons(args):
     with open(f'samples/{args.year}.yaml') as f:
         samples = yaml.load(f, Loader=yaml.FullLoader)
 
-    subprocess.run(['gfal-mkdir', f'{args.destination_path}/Run3'])
+    subprocess.run(['gfal-mkdir', f'{args.destination_path}/Run3/{args.year}'])
     for sample in samples:
         subprocess.run(['gfal-mkdir', f'{args.destination_path}/Run3/{args.year}/{sample}'])
 
