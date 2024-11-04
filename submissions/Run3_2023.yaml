@@ -1,230 +1,25 @@
-DYto2L_M-10to50_madgraphMLM.json: 'Job successfully submitted.
+DYto2L_M-10to50_amcatnloFXFX.json: 'Job successfully submitted.
 
-  Job id: 780cf95e-5339-11ef-a05c-525400e091e6
-
-  '
-DYto2L_M-50_1J_madgraphMLM.json: 'Job successfully submitted.
-
-  Job id: 788fa5fc-5339-11ef-be24-525400e091e6
+  Job id: 20ea64ca-92e2-11ef-9783-525400e091e6
 
   '
-DYto2L_M-50_2J_madgraphMLM.json: 'Job successfully submitted.
+DYto2L_M-50_0J_amcatnloFXFX.json: 'Job successfully submitted.
 
-  Job id: 7911250a-5339-11ef-b277-525400e091e6
-
-  '
-DYto2L_M-50_3J_madgraphMLM.json: 'Job successfully submitted.
-
-  Job id: 7993b40c-5339-11ef-8727-525400e091e6
+  Job id: 220caba6-92e2-11ef-8e65-525400e091e6
 
   '
-DYto2L_M-50_4J_madgraphMLM.json: 'Job successfully submitted.
+DYto2L_M-50_1J_amcatnloFXFX.json: 'Job successfully submitted.
 
-  Job id: 7a12bcac-5339-11ef-b277-525400e091e6
-
-  '
-DYto2L_M-50_madgraphMLM.json: 'Job successfully submitted.
-
-  Job id: 7a9091ea-5339-11ef-b277-525400e091e6
+  Job id: 233d1e02-92e2-11ef-9787-525400e091e6
 
   '
-EGamma0_Run2023C_v1.json: 'Job successfully submitted.
+DYto2L_M-50_2J_amcatnloFXFX.json: 'Job successfully submitted.
 
-  Job id: 7b213bb4-5339-11ef-be24-525400e091e6
-
-  '
-EGamma0_Run2023C_v2.json: 'Job successfully submitted.
-
-  Job id: 7ba1790a-5339-11ef-b277-525400e091e6
+  Job id: 246c0572-92e2-11ef-81b7-525400e091e6
 
   '
-EGamma0_Run2023C_v3.json: 'Job successfully submitted.
+DYto2L_M-50_amcatnloFXFX.json: 'Job successfully submitted.
 
-  Job id: 7c216d22-5339-11ef-a05c-525400e091e6
-
-  '
-EGamma0_Run2023C_v4.json: 'Job successfully submitted.
-
-  Job id: 7ca0be06-5339-11ef-a05c-525400e091e6
-
-  '
-EGamma1_Run2023C_v1.json: 'Job successfully submitted.
-
-  Job id: 7d25e9dc-5339-11ef-8727-525400e091e6
-
-  '
-EGamma1_Run2023C_v2.json: 'Job successfully submitted.
-
-  Job id: 7da80390-5339-11ef-b277-525400e091e6
-
-  '
-EGamma1_Run2023C_v3.json: 'Job successfully submitted.
-
-  Job id: 7e46b742-5339-11ef-be24-525400e091e6
-
-  '
-EGamma1_Run2023C_v4.json: 'Job successfully submitted.
-
-  Job id: 7eebde20-5339-11ef-a05c-525400e091e6
-
-  '
-Muon0_Run2023C_v1.json: 'Job successfully submitted.
-
-  Job id: 7fa1901c-5339-11ef-b277-525400e091e6
-
-  '
-Muon0_Run2023C_v2.json: 'Job successfully submitted.
-
-  Job id: 80630a9e-5339-11ef-b277-525400e091e6
-
-  '
-Muon0_Run2023C_v3.json: 'Job successfully submitted.
-
-  Job id: 814808c4-5339-11ef-be24-525400e091e6
-
-  '
-Muon0_Run2023C_v4.json: 'Job successfully submitted.
-
-  Job id: 8238a4b4-5339-11ef-b277-525400e091e6
-
-  '
-Muon1_Run2023C_v1.json: 'Job successfully submitted.
-
-  Job id: 833b4182-5339-11ef-8727-525400e091e6
-
-  '
-Muon1_Run2023C_v2.json: 'Job successfully submitted.
-
-  Job id: 845117cc-5339-11ef-8727-525400e091e6
-
-  '
-Muon1_Run2023C_v3.json: 'Job successfully submitted.
-
-  Job id: 8565b4c4-5339-11ef-a05c-525400e091e6
-
-  '
-Muon1_Run2023C_v4.json: 'Job successfully submitted.
-
-  Job id: 869830e2-5339-11ef-a05c-525400e091e6
-
-  '
-MuonEG_Run2023C_v1.json: 'Job successfully submitted.
-
-  Job id: 87d07dc0-5339-11ef-be24-525400e091e6
-
-  '
-MuonEG_Run2023C_v2.json: 'Job successfully submitted.
-
-  Job id: 88f58f6a-5339-11ef-a05c-525400e091e6
-
-  '
-MuonEG_Run2023C_v3.json: 'Job successfully submitted.
-
-  Job id: 8a203606-5339-11ef-8727-525400e091e6
-
-  '
-MuonEG_Run2023C_v4.json: 'Job successfully submitted.
-
-  Job id: 8b55e21e-5339-11ef-b277-525400e091e6
-
-  '
-ST_tW_antitop_2L2Nu.json: 'Job successfully submitted.
-
-  Job id: 8c7f5184-5339-11ef-b277-525400e091e6
-
-  '
-ST_tW_antitop_4Q.json: 'Job successfully submitted.
-
-  Job id: 8dc078f2-5339-11ef-8727-525400e091e6
-
-  '
-ST_tW_top_2L2Nu.json: 'Job successfully submitted.
-
-  Job id: 8ee8e4e4-5339-11ef-b277-525400e091e6
-
-  '
-ST_tW_top_4Q.json: 'Job successfully submitted.
-
-  Job id: 900c5b1c-5339-11ef-be24-525400e091e6
-
-  '
-ST_tW_top_LNu2Q.json: 'Job successfully submitted.
-
-  Job id: 91498950-5339-11ef-b277-525400e091e6
-
-  '
-TTto2L2Nu.json: 'Job successfully submitted.
-
-  Job id: 96ce1634-5339-11ef-b277-525400e091e6
-
-  '
-TTto4Q.json: 'Job successfully submitted.
-
-  Job id: 97dc971c-5339-11ef-b277-525400e091e6
-
-  '
-TTtoLNu2Q.json: 'Job successfully submitted.
-
-  Job id: 9900080e-5339-11ef-be24-525400e091e6
-
-  '
-Tau_Run2023C_v1.json: 'Job successfully submitted.
-
-  Job id: 92630b40-5339-11ef-8727-525400e091e6
-
-  '
-Tau_Run2023C_v2.json: 'Job successfully submitted.
-
-  Job id: 937a65fa-5339-11ef-be24-525400e091e6
-
-  '
-Tau_Run2023C_v3.json: 'Job successfully submitted.
-
-  Job id: 94a3fff4-5339-11ef-b277-525400e091e6
-
-  '
-Tau_Run2023C_v4.json: 'Job successfully submitted.
-
-  Job id: 95b36362-5339-11ef-8727-525400e091e6
-
-  '
-WW.json: 'Job successfully submitted.
-
-  Job id: 9fdce138-5339-11ef-8727-525400e091e6
-
-  '
-WZ.json: 'Job successfully submitted.
-
-  Job id: a100f4d2-5339-11ef-be24-525400e091e6
-
-  '
-WtoLNu_1J_madgraphMLM.json: 'Job successfully submitted.
-
-  Job id: 9a212d94-5339-11ef-8727-525400e091e6
-
-  '
-WtoLNu_2J_madgraphMLM.json: 'Job successfully submitted.
-
-  Job id: 9b391336-5339-11ef-8727-525400e091e6
-
-  '
-WtoLNu_3J_madgraphMLM.json: 'Job successfully submitted.
-
-  Job id: 9c61db6c-5339-11ef-a05c-525400e091e6
-
-  '
-WtoLNu_4J_madgraphMLM.json: 'Job successfully submitted.
-
-  Job id: 9d8b9924-5339-11ef-be24-525400e091e6
-
-  '
-WtoLNu_madgraphMLM.json: 'Job successfully submitted.
-
-  Job id: 9eb655c8-5339-11ef-b277-525400e091e6
-
-  '
-ZZ.json: 'Job successfully submitted.
-
-  Job id: a21b243c-5339-11ef-be24-525400e091e6
+  Job id: 25980fb8-92e2-11ef-8e65-525400e091e6
 
   '

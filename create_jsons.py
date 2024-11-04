@@ -37,8 +37,8 @@ def create_jsons(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Create JSONs from YAMLs')
     parser.add_argument('--year', required=True, help='Year to process')
-    parser.add_argument('--destination_path', required=False, help='Path to create directories on dcache', default='davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva')
-    parser.add_argument('--source_path', required=False, help='Path to sample root files', default='davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v1')
+    parser.add_argument('--destination_path', required=False, help='Path to create directories on dcache', default='davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2')
+    parser.add_argument('--source_path', required=False, help='Path to sample root files', default='davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2')
     args = parser.parse_args()
 
     create_jsons(args) 
