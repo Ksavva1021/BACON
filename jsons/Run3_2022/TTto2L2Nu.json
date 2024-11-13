@@ -5,7 +5,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_0.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_0.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_0.root"
             ]
         },
         {
@@ -13,7 +13,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_1.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_1.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_1.root"
             ]
         },
         {
@@ -21,7 +21,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_10.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_10.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_10.root"
             ]
         },
         {
@@ -29,7 +29,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_11.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_11.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_11.root"
             ]
         },
         {
@@ -37,7 +37,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_12.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_12.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_12.root"
             ]
         },
         {
@@ -45,7 +45,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_13.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_13.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_13.root"
             ]
         },
         {
@@ -53,7 +53,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_14.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_14.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_14.root"
             ]
         },
         {
@@ -61,7 +61,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_15.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_15.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_15.root"
             ]
         },
         {
@@ -69,7 +69,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_16.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_16.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_16.root"
             ]
         },
         {
@@ -77,7 +77,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_17.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_17.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_17.root"
             ]
         },
         {
@@ -85,7 +85,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_18.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_18.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_18.root"
             ]
         },
         {
@@ -93,7 +93,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_19.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_19.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_19.root"
             ]
         },
         {
@@ -101,7 +101,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_2.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_2.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_2.root"
             ]
         },
         {
@@ -109,7 +109,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_20.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_20.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_20.root"
             ]
         },
         {
@@ -117,7 +117,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_21.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_21.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_21.root"
             ]
         },
         {
@@ -125,7 +125,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_22.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_22.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_22.root"
             ]
         },
         {
@@ -133,7 +133,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_23.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_23.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_23.root"
             ]
         },
         {
@@ -141,7 +141,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_24.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_24.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_24.root"
             ]
         },
         {
@@ -149,7 +149,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_25.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_25.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_25.root"
             ]
         },
         {
@@ -157,7 +157,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_26.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_26.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_26.root"
             ]
         },
         {
@@ -165,7 +165,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_27.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_27.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_27.root"
             ]
         },
         {
@@ -173,7 +173,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_28.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_28.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_28.root"
             ]
         },
         {
@@ -181,7 +181,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_29.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_29.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_29.root"
             ]
         },
         {
@@ -189,7 +189,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_3.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_3.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_3.root"
             ]
         },
         {
@@ -197,7 +197,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_30.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_30.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_30.root"
             ]
         },
         {
@@ -205,7 +205,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_31.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_31.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_31.root"
             ]
         },
         {
@@ -213,7 +213,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_32.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_32.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_32.root"
             ]
         },
         {
@@ -221,7 +221,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_33.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_33.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_33.root"
             ]
         },
         {
@@ -229,7 +229,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_34.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_34.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_34.root"
             ]
         },
         {
@@ -237,7 +237,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_35.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_35.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_35.root"
             ]
         },
         {
@@ -245,7 +245,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_36.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_36.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_36.root"
             ]
         },
         {
@@ -253,7 +253,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_37.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_37.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_37.root"
             ]
         },
         {
@@ -261,7 +261,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_38.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_38.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_38.root"
             ]
         },
         {
@@ -269,7 +269,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_39.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_39.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_39.root"
             ]
         },
         {
@@ -277,7 +277,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_4.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_4.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_4.root"
             ]
         },
         {
@@ -285,7 +285,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_40.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_40.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_40.root"
             ]
         },
         {
@@ -293,7 +293,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_41.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_41.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_41.root"
             ]
         },
         {
@@ -301,7 +301,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_42.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_42.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_42.root"
             ]
         },
         {
@@ -309,7 +309,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_43.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_43.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_43.root"
             ]
         },
         {
@@ -317,7 +317,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_44.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_44.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_44.root"
             ]
         },
         {
@@ -325,7 +325,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_45.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_45.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_45.root"
             ]
         },
         {
@@ -333,7 +333,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_46.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_46.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_46.root"
             ]
         },
         {
@@ -341,7 +341,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_47.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_47.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_47.root"
             ]
         },
         {
@@ -349,7 +349,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_48.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_48.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_48.root"
             ]
         },
         {
@@ -357,7 +357,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_49.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_49.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_49.root"
             ]
         },
         {
@@ -365,7 +365,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_5.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_5.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_5.root"
             ]
         },
         {
@@ -373,7 +373,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_50.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_50.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_50.root"
             ]
         },
         {
@@ -381,7 +381,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_51.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_51.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_51.root"
             ]
         },
         {
@@ -389,7 +389,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_52.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_52.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_52.root"
             ]
         },
         {
@@ -397,7 +397,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_6.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_6.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_6.root"
             ]
         },
         {
@@ -405,7 +405,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_7.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_7.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_7.root"
             ]
         },
         {
@@ -413,7 +413,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_8.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_8.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_8.root"
             ]
         },
         {
@@ -421,7 +421,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_9.root"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/nano_9.root"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/nano_9.root"
             ]
         },
         {
@@ -429,7 +429,7 @@
                 "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/prodReport_nano.json"
             ],
             "destinations": [
-                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare_skim_2024_v2/Run3/Run3_2022/TTto2L2Nu/prodReport_nano.json"
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/TTto2L2Nu/prodReport_nano.json"
             ]
         }
     ]
