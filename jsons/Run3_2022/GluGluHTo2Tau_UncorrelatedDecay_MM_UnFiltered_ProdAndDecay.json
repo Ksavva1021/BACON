@@ -1,0 +1,20 @@
+{
+    "files": [
+        {
+            "sources": [
+                "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/GluGluHTo2Tau_UncorrelatedDecay_MM_UnFiltered_ProdAndDecay/nano_0.root"
+            ],
+            "destinations": [
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/GluGluHTo2Tau_UncorrelatedDecay_MM_UnFiltered_ProdAndDecay/nano_0.root"
+            ]
+        },
+        {
+            "sources": [
+                "davs://eoscms.cern.ch/eos/cms/store/group/phys_higgs/HLepRare/skim_2024_v2/Run3_2022/GluGluHTo2Tau_UncorrelatedDecay_MM_UnFiltered_ProdAndDecay/prodReport_nano.json"
+            ],
+            "destinations": [
+                "davs://gfe02.grid.hep.ph.ic.ac.uk:2880/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/ksavva/HLepRare/skim_2024_v2/Run3_2022/GluGluHTo2Tau_UncorrelatedDecay_MM_UnFiltered_ProdAndDecay/prodReport_nano.json"
+            ]
+        }
+    ]
+}
